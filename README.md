@@ -18,4 +18,4 @@ Check out the live version here: [The Last Blade](https://cool-narwhal-eda80f.ne
 ## Installation  
 1. Clone this repository to your local machine:  
    ```bash  
-   git clone https://github.com/yourusername/the-last-blade.git  
+   git clone https://github.com/Edifierx8/the-last-blade.git  
